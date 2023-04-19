@@ -1,0 +1,8 @@
+flask
+validators
+shortuuid
+python-dotenv
+flask-smorest
+sqlalchemy
+flask-sqlalchemy
+flask_apscheduler
